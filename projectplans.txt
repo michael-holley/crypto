@@ -1,0 +1,13 @@
+These are future plans and features for this tool. Use this as a guide to manage the project board.
+
+1. Probably rebuild this in Python for better efficiency and more robust features
+	This may allow the ability to connect this to a library of decryption methods and allow more methods than BASH can
+2. Build encryption feature framework
+	Be able to encrypt in the most popular encryption methods
+3. Create better decryption system that is more user friendly
+	Don't just have it spit out a ton of messages to terminal.
+	Maybe push decryptions in a series of files with decryption method in file name
+	Maybe create a detection feature so that it only has to decrypt one time. This could be most effecient when there are many different methods added to src
+4. Look for a more efficient way to write the ROT cyphers into the code. 
+	Maybe there is an algorithm to write them all in one case.
+5. Look into adding more complex cyphers like Vigenere
